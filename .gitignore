@@ -1,0 +1,5 @@
+*.pth
+__pycache__
+.vscode
+.DS_Store
+saved_models/*.tar
