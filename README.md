@@ -1,7 +1,5 @@
 Reference code: https://www.kaggle.com/nachiket273/flower-classification-lookahead-radam
 
---> Used for training.
-
 1. Installation
 
    - Python

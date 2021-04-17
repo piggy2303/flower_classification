@@ -1,2 +1,2 @@
-BUILD_IMAGE=orai/cv010
+BUILD_IMAGE=flower
 docker build . -t $BUILD_IMAGE
